@@ -1,6 +1,6 @@
-# performance
+# sparta-model-evaluation
 
-Code to get performance numbers for different model types.
+Experiments for system model evaluations in Sparta (IEEE S&P 2025).
 
 ## Contents
 - data, directory for enron and seattle datasets
