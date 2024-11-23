@@ -1,5 +1,5 @@
 #! /bin/bash
-DATASET=seattle
+DATASET=enron
 INTERVAL=60
 
 python3 experiment.py data/$DATASET results/$DATASET $INTERVAL k-out --varies 10
